@@ -544,7 +544,11 @@ body {
   .social img{
     padding: 9px;
   }
-
+  
+  .x{
+    width: 37px;
+  }
+  
   .footer{
     padding: 30px;
     flex-direction: column;
